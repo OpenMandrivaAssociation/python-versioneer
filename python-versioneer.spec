@@ -7,6 +7,7 @@ URL:		https://pypi.org/project/versioneer/
 License:	Unlicense
 Group:		Development/Python
 BuildRequires:	python
+BuildRequires:	python%{pyver}dist(setuptools)
 BuildSystem:	python
 BuildArch:	noarch
 

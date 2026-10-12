@@ -1,6 +1,6 @@
 Name:		python-versioneer
 Version:	0.29
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/v/versioneer/versioneer-%{version}.tar.gz
 Summary:	Easy VCS-based management of project version strings
 URL:		https://pypi.org/project/versioneer/
